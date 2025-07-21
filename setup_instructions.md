@@ -40,7 +40,7 @@ pip install -r requirements.txt
 Create a `.env` file in your project directory:
 
 ```
-OPENAI_API_KEY=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
+OPENAI_API_KEY=XXX
 ```
 
 Then install python-dotenv:
